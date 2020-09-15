@@ -59,6 +59,7 @@
 .chat_timestamp{
     margin-left: 10px;
     font-size: xx-small;
+    color: gray;
 }
 .chat_receiver{
     margin-left: auto;

@@ -48,7 +48,7 @@
 }
 
 .sidebar_chats{
-    height: 83%;
+    height: 78.4%;
     background-color: white;
-    overflow: hidden;
+    overflow: scroll;
 }

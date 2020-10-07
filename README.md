@@ -3,6 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Link: https://whatsapp-clone-e556f.web.app/
 
 ## Screenshots
+![Output Pic](https://github.com/aj-bhagat/WhatsApp-Clone/blob/master/What's_App_Clone.PNG)
 
 ## Available Scripts
 

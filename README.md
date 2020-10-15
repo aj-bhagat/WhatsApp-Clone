@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
-This is the Basic Working Clone of What's App Web, I implemented using Reactjs with Firebase Hosting and Realtime Database along with Google Authentication for Login purpose.
+This is the Basic Working Clone of What's App Web, I implemented using Reactjs with Firebase Hosting and Realtime Database along with Google Authentication for Login purpose. Before Running this project install npm packages using 'npm install' command.
 
 To run this project after downloading, please add the firebase config file with firebase details along with npm modules.
 
